@@ -1,4 +1,7 @@
 # From: https://github.com/Joris-van-der-Wel/karma-mocha-webworker/blob/master/.travis.yml
+arch:
+    - amd64
+    - ppc64le
 language: node_js
 node_js:
   - "node"
